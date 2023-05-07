@@ -1,6 +1,8 @@
 # Automated-YouTube-Channel
 Automated YouTube Channel that creates content by scraping popular posts off of reddit and making videos out of them, which then are uploaded to YouTube (along with a custom thumbnail that is made)
 
+![Screenshot (1571)](https://user-images.githubusercontent.com/126431978/236705628-87c47253-f847-4b48-b6e1-fe1551340fe9.png)
+
 Video Demo:
 Coming soon...
 
