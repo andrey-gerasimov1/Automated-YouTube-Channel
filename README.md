@@ -3,6 +3,7 @@ Automated YouTube Channel that creates content by scraping popular posts off of 
 
 ![maxresdefault (4)](https://user-images.githubusercontent.com/126431978/236705663-1695bf51-793f-438f-a134-e0efde41e245.jpg)
 ![Screenshot (1571)](https://user-images.githubusercontent.com/126431978/236705628-87c47253-f847-4b48-b6e1-fe1551340fe9.png)
+![Screenshot (1574)](https://user-images.githubusercontent.com/126431978/236705715-93aae341-d053-44fc-8cfb-4388a96f6ede.png)
 
 Channel where videos are uploaded:
 https://www.youtube.com/@redditlearningtoday9468
