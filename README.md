@@ -13,12 +13,12 @@ Coming soon...
 
 Required python libraries (pip) :
 
-pygame
-praw
-google_images_download
-moviepy
-google-cloud-texttospeech
-oauth2client
-google-api-python-client
-google-auth-oauthlib
-google-auth-httplib2
+•pygame
+•praw
+•google_images_download
+•moviepy
+•google-cloud-texttospeech
+•oauth2client
+•google-api-python-client
+•google-auth-oauthlib
+•google-auth-httplib2
